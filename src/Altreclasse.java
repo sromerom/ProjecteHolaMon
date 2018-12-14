@@ -3,6 +3,6 @@ public class Altreclasse {
         System.out.println("Hola món!!");
     }
     public static void printAdeu(){
-        System.out.println("Hola adeu!!");
+        System.out.println("Adeu món!!");
     }
 }
